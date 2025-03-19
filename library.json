@@ -1,0 +1,35 @@
+[
+  {
+    "title" : "python crash course",
+    "authon" : "Erix Mathes",
+    "publication_Year" : 2019,
+    "genre" : "Programming",
+    "read_status" : "false",
+    "added_data" : "2025-03-19 09:48:36"
+  },
+  {
+    "title" : "Automate the boring stuff in python",
+    "authon" : "Fiza Sagar",
+    "publication_Year" : 2011,
+    "genre" : "Programming",
+    "read_status" : "true",
+    "added_data" : "2025-03-19 09:48:36"
+  },
+  {
+    "title" : "Fluent Python",
+    "authon" : "Ramalho",
+    "publication_Year" : 2022,
+    "genre" : "Programming",
+    "read_status" : "false",
+    "added_data" : "2025-03-19 09:50:10"
+  },
+  {
+     "title" : "Effective Python",
+    "authon" : "Brett Slatkin",
+    "publication_Year" : 2020,
+    "genre" : "Programming",
+    "read_status" : "false",
+    "added_data" : "2025-03-19 10:20:26"
+  }
+]
+  
